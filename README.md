@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anay+Mishra;ML+Developer+%7C+GenAI+%7C+Agentic+AI;Building+AI+that+thinks+and+acts;Open+Source+%26+Hackathon+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=7E3ACE&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aditya+Kashyap;ML+Developer+%7C+GenAI+%7C+Agentic+AI;Building+AI+that+thinks+and+acts;Open+Source+%26+Hackathon+Enthusiast" />
 </p>
 
 <p align="center">
